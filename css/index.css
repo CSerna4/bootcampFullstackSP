@@ -1,0 +1,212 @@
+body{
+    margin:0;
+    padding:0;
+    background: #FFF8F0;
+
+}
+.name{
+    width: 100%;
+    height: 300px;
+    background: #9999C3;
+    transform: skewY(-5deg );
+}
+
+.name .content{
+    width:50%;
+    height:50%;
+    position:absolute;
+    left:25%;
+}
+
+.name .content .p1  {
+    color:antiquewhite;
+    font-family:'Anek Devanagari',sans-serif;
+    font-weight: bolder; 
+    font-size: 65px;
+    transform: skewY( 5deg );
+    margin-bottom: 1cm;
+
+}
+.name .content .p2  {
+    color:antiquewhite;
+    font-family:'Anek Devanagari',sans-serif;
+    font-weight: bolder;
+    font-size: 35px;
+    transform: skewY( 5deg );
+    margin-top: 0;
+    margin-bottom:1cm;
+}
+
+.name .img{
+    position: absolute;
+    top: 28%;
+    right:5%;
+    width: 180px;
+    height: 180px;
+    border-radius: 100%;
+    transform: skewY(5deg);
+    overflow: hidden;
+}
+
+.name .img img{
+    width: 180px;
+    height:180px;
+}
+
+.info{
+    width: 90%;
+    height: auto;
+    background: #9999C3;
+    margin: 5% auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.info .sectionTitle{
+    color:antiquewhite;
+    font-family:'Anek Devanagari',sans-serif;
+    font-size:xx-large;
+    text-align: center;
+    font-weight: bold;
+    border-bottom:4px antiquewhite dashed;
+}
+
+.info .titleName{
+    color:antiquewhite;
+    font-family:'Anek Devanagari',sans-serif;
+    font-size:x-large;
+    font-weight: bold;
+    display:inline;
+    margin-right: 20px; 
+}
+
+.info .infoName{
+    color:rgb(30, 4, 92);
+    font-family:'Karla',sans-serif;
+    font-size:large;
+    font-weight: bold;  
+    display: inline;
+
+}
+
+.info .titleEmail{
+    color:antiquewhite;
+    font-family:'Anek Devanagari',sans-serif;
+    font-size:x-large;
+    font-weight: bold;
+    margin-right: 20px;
+    display: inline-block;
+}
+
+.info .infoEmail{
+    color:rgb(30, 4, 92);
+    font-family:'Karla',sans-serif;
+    font-size:large;
+    font-weight: bold;  
+    display: inline-block;
+
+}
+.info .titleProfile{
+    color:antiquewhite;
+    font-family:'Anek Devanagari',sans-serif;
+    font-size:x-large;
+    font-weight: bold;
+    margin-right: 20px;
+    display: inline;
+}
+
+.info .infoProfile{
+    color:rgb(30, 4, 92);
+    font-family:'Karla',sans-serif;
+    font-size:large;
+    font-weight: bold;  
+    display: inline;
+
+}
+.info .titleGit{
+    color:antiquewhite;
+    font-family:'Anek Devanagari',sans-serif;
+    font-size:x-large;
+    font-weight: bold;
+    margin-right: 20px;
+    display: inline;
+}
+
+.info .infoGit{
+    color:rgb(30, 4, 92);
+    font-family:'Karla',sans-serif;
+    font-size:large;
+    font-weight: bold;  
+    display: inline;
+
+}
+
+.ProfessionalExperience{
+    width: 90%;
+    height: auto;
+    background: #9999C3;
+    margin: 5% auto;
+    padding: 20px;
+    border-radius: 20px;
+}
+.ProfessionalExperience .sectionTitle{
+    color:antiquewhite;
+    font-family:'Anek Devanagari',sans-serif;
+    font-size:xx-large;
+    text-align: center;
+    font-weight: bold;
+    border-bottom:4px antiquewhite dashed;
+}
+.ProfessionalExperience .Exp1{
+    color:antiquewhite;
+    font-family:'Anek Devanagari',sans-serif;
+    font-size:x-large;
+    font-weight: bold;
+    margin-right: 20px;
+    display: inline;
+}
+
+.ProfessionalExperience .ExpInfo1{
+    color:rgb(30, 4, 92);
+    font-family:'Karla',sans-serif;
+    font-size:large;
+    font-weight: bold;
+    display:inline;
+}
+.ProfessionalExperience .Exp2{
+    color:antiquewhite;
+    font-family:'Anek Devanagari',sans-serif;
+    font-size:x-large;
+    font-weight: bold;
+    display:inline;
+    margin-right: 20px; 
+}
+
+.ProfessionalExperience .ExpInfo2{
+    color:rgb(30, 4, 92);
+    font-family:'Karla',sans-serif;
+    font-size:large;
+    font-weight: bold;  
+    display: inline;
+}
+.ProfessionalExperience .Exp3{
+    color:antiquewhite;
+    font-family:'Anek Devanagari',sans-serif;
+    font-size:x-large;
+    font-weight: bold;
+    display:inline;
+    margin-right: 20px; 
+}
+
+.ProfessionalExperience .ExpInfo3{
+    color:rgb(30, 4, 92);
+    font-family:'Karla',sans-serif;
+    font-size:large;
+    font-weight: bold;  
+    display: inline;
+
+}
+
+
+
+
